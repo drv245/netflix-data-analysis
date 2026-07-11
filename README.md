@@ -19,3 +19,5 @@ Exploratory Data Analysis (EDA) of the Netflix Movies and TV Shows dataset.
 - United States dominates content, India is Second!
 - Netflix shifted toward TV Shows by 2021
 - Dramas + International Movies is the most common genre combination overall.
+
+- Project completed: June 2026
